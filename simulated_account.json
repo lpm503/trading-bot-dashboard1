@@ -1,0 +1,18 @@
+{
+    "balance": 10000.0,
+    "position": "LONG",
+    "entry_price": 29500.0,
+    "trade_history": [
+        {
+            "type": "BUY",
+            "price": 29500.0,
+            "amount": 100
+        },
+        {
+            "type": "SELL",
+            "price": 30200.0,
+            "amount": 100,
+            "profit": 23.73
+        }
+    ]
+}
